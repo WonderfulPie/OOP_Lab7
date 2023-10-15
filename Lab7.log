@@ -1,0 +1,7 @@
+﻿  Lab7.cpp
+D:\University\2 курс\ООП\Lab7\Lab7\Lab7\Lab7.cpp(27,1): warning C4297: CalculateSquareRootThrowSpec: ожидается, что функция не будет выдавать исключения, но она это делает
+D:\University\2 курс\ООП\Lab7\Lab7\Lab7\Lab7.cpp(27,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+D:\University\2 курс\ООП\Lab7\Lab7\Lab7\Lab7.cpp(33,1): warning C4297: CalculateSquareRootThrowSpec: ожидается, что функция не будет выдавать исключения, но она это делает
+D:\University\2 курс\ООП\Lab7\Lab7\Lab7\Lab7.cpp(33,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+D:\University\2 курс\ООП\Lab7\Lab7\Lab7\Lab7.cpp(40,85): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Lab7.vcxproj -> D:\University\2 курс\ООП\Lab7\Lab7\Debug\Lab7.exe
